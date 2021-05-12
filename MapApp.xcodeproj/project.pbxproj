@@ -20,6 +20,7 @@
 		53956EA2264B537100398A16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		53956EA5264B537100398A16 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		53956EA7264B537100398A16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53956EAF264B581D00398A16 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 			children = (
 				53956E9E264B536D00398A16 /* MapAppApp.swift */,
 				53956EA0264B536D00398A16 /* ContentView.swift */,
+				53956EAF264B581D00398A16 /* MyPlayground.playground */,
 				53956EA2264B537100398A16 /* Assets.xcassets */,
 				53956EA7264B537100398A16 /* Info.plist */,
 				53956EA4264B537100398A16 /* Preview Content */,
