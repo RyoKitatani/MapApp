@@ -8,7 +8,7 @@
 import MapKit
 import SwiftUI
 
-struct MapView: UIViewRepresentable {
+struct MapShow: UIViewRepresentable {
     func makeUIView(context: Context) -> MKMapView {
         return MKMapView()
     }
@@ -18,7 +18,7 @@ struct MapView: UIViewRepresentable {
 
 struct ContentView: View {
     var body: some View {
-        MapView()
+        MapShow()
     }
 }
 
